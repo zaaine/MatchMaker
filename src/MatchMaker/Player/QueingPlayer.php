@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\MatchMaker\Player;
+namespace App\Domain\MatchMaker\Player;
 
 class QueuingPlayer implements InLobbyPlayerInterface
 {
